@@ -31,8 +31,12 @@ The mock tests on this site are pretty good and what separates this site from ot
 
 https://istqb.patshala.com/tests/
 
-## ISTQB Official resources
+### ISTQB Official resources
 
 On this site you can download a few mock tests and read the exam syllabus, which I recommend getting used to as it will help you with your preaparation. The only downside of this particular page is that there are only 2 mock tests and you're unlikely to get those exact questions in the exam
 
 https://www.istqb.org/certification-path-root/foundation-level-2018.html
+
+### TM Square (Youtube)
+
+A channel in which Neeraj Kumar Singh posts his video tutorials related to the book mentioned earlier. His videos are in depth and very useful for preparing and he also goes through some example questions in his videos, explaining why the correct answer is actually correct.
