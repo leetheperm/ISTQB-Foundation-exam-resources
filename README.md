@@ -40,3 +40,5 @@ https://www.istqb.org/certification-path-root/foundation-level-2018.html
 ### TM Square (Youtube)
 
 A channel in which Neeraj Kumar Singh posts his video tutorials related to the book mentioned earlier. His videos are in depth and very useful for preparing and he also goes through some example questions in his videos, explaining why the correct answer is actually correct.
+
+https://www.youtube.com/watch?v=bmdmZXMYrmo&list=PLj5VKaW115t1o1hk5ZbNWFr4sW5mBpvmv
